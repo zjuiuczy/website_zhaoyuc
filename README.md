@@ -10,7 +10,7 @@
 ## Authors
 
 * **Zhaoyu Cheng** - *Design* - [zjuiuczy](https://github.com/zjuiuczy)
-* **HTML 5 UP** - *Theme creation* - [Dimension](https://html5up.net/dimension)
+* **HTML 5 UP** - *Theme creation* - [Dimension](https://html5up.net/massively)
 
 ## License
 
