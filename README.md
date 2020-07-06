@@ -1,10 +1,5 @@
-# silversquadstudios.com
+# Github.io
 
-This is the html, css, js code for the website [silversquadstudios.com](http://silversquadstudios.com/) 
-
-## Getting Started
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
 ## Built With
 
@@ -14,9 +9,9 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## Authors
 
-* **Pradeep Senthil** - *Design* - [pradeepsen99](https://github.com/pradeepsen99)
+* **Zhaoyu Cheng** - *Design* - [zjuiuczy](https://github.com/zjuiuczy)
 * **HTML 5 UP** - *Theme creation* - [Dimension](https://html5up.net/dimension)
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
